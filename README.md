@@ -1,7 +1,7 @@
 Njoroge Joseph Kimenyu
 
---About Me
---My name is Njoroge Joseph Kimenyu and I am a data analyst and software engineer with a passion for Python. I am constantly seeking new challenges and ways to improve --my skills in data analysis and software engineering. I am particularly interested in leveraging Python to solve complex problems and create efficient and scalable ----software solutions.
+About Me
+My name is Njoroge Joseph Kimenyu and I am a data analyst and software engineer with a passion for Python. I am constantly seeking new challenges and ways to improve my skills in data analysis and software engineering. I am particularly interested in leveraging Python to solve complex problems and create efficient and scalable software solutions.
 
 Interests
 My primary interests lie in the areas of data analysis, software engineering, and Python. I enjoy exploring and analyzing large datasets to gain insights and make informed decisions. I also enjoy developing software solutions using Python and other programming languages to automate tasks and improve efficiency.
@@ -15,8 +15,6 @@ Data visualization,
 SQL, 
 Git.
 Contact
-
-If you would like to get in touch with me to discuss potential projects or opportunities, please feel free to reach out to me through my email: njorogekimenyu@gmail.com.
  📫 How to reach me via email njorogekimenyu@gmail.com, on twitter @njorogekimenyu and on LinkedIn Joseph Njoroge
 
 <!---
