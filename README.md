@@ -5,7 +5,7 @@
 
 
 
-# MY STATS (They are pathetic):
+# MY STATS:
  
  
  [![](https://raw.githubusercontent.com/kimenyu/tutorial-snapshot/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
