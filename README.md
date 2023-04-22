@@ -1,4 +1,3 @@
-#kimenyu
 Njoroge Joseph Kimenyu
 Welcome to Njoroge Joseph Kimenyu's README file!
 
@@ -10,27 +9,16 @@ My primary interests lie in the areas of data analysis, software engineering, an
 
 Skills
 My skills include:
-
-Data analysis
-Python programming
-Software engineering
-Machine learning
-Data visualization
-SQL
-Git
+Data analysis,
+Python programming,
+Software engineering, 
+Data visualization, 
+SQL, 
+Git.
 Contact
-If you would like to get in touch with me to discuss potential projects or opportunities, please feel free to reach out to me through my email: njorogejosephkimenyu@gmail.com.
 
-
-
-
-
-
-
-- 👋 Hi, I’m @kimenyu
-- 👀 I’m interested in Data Analysis and Software Enin
-- 🌱 I’m currently learning Data science
-- - 📫 How to reach me via email njorogekimenyu@gmail.com, on twitter @njorogekimenyu and on LinkedIn Joseph Njoroge
+If you would like to get in touch with me to discuss potential projects or opportunities, please feel free to reach out to me through my email: njorogekimenyu@gmail.com.
+ 📫 How to reach me via email njorogekimenyu@gmail.com, on twitter @njorogekimenyu and on LinkedIn Joseph Njoroge
 
 <!---
 kimenyu/kimenyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
